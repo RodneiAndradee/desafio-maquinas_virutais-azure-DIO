@@ -1,1 +1,1 @@
-# desafio-maquinas_virutais-azuera-DIO
+# desafio-maquinas_virutais-azure-DIO
